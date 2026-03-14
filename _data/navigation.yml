@@ -1,8 +1,8 @@
 - name: Home
-  link: /index.html
+  link: /
 - name: Progetti
-  link: /projects.html
-- name: Fisica & Math
-  link: /science.html
+  link: /projects/
+- name: Scienza
+  link: /science/
 - name: Contatti
-  link: /contact.html
+  link: /contact/
