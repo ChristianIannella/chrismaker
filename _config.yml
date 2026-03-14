@@ -1,6 +1,14 @@
-title: Il Mio Sito Web
+title: Il Mio Sito da Ingegnere
 email: tua@email.it
-description: >- # Scrivi qui la descrizione del sito
-  Sito statico creato con Jekyll e GitHub Pages.
-baseurl: "" # Lascia vuoto se è il repository principale tuo-nome.github.io
+baseurl: "" 
 url: "https://tuo-nomeutente.github.io"
+
+# Questa riga è la chiave per gli URL puliti
+permalink: pretty
+
+# Opzionale: per escludere file non necessari dalla build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .jekyll-cache
+  - node_modules
