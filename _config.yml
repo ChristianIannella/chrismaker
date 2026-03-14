@@ -1,0 +1,6 @@
+title: Il Mio Sito Web
+email: tua@email.it
+description: >- # Scrivi qui la descrizione del sito
+  Sito statico creato con Jekyll e GitHub Pages.
+baseurl: "" # Lascia vuoto se è il repository principale tuo-nome.github.io
+url: "https://tuo-nomeutente.github.io"
